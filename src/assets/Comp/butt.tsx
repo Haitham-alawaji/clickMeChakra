@@ -11,6 +11,7 @@ const colorList: string[] = [
   '#00B5D8',
   '#44337A',
   '#ED64A6',
+  '#00B5AD',
 ];
 
 export default function ClickMe(props: ButtonProps) {
